@@ -1,0 +1,24 @@
+@font-face {
+  font-family: "Montserrat";
+  src: url("../assets/fonts/Montserrat-VariableFont_wght.ttf");
+}
+@font-face {
+  font-family: "noto";
+  src: url("../assets/fonts/NotoSansKR-VariableFont_wght.ttf");
+}
+
+:root {
+  font-family: noto, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  color: #ffffff;
+  background-color: #141f2b;
+}
+body{
+  margin: 0;
+  font-family: noto, sans-serif;
+  font-weight: normal;
+  text-align: center;
+  overflow: hidden;
+}
